@@ -7,19 +7,12 @@ directory. This website's +MENU+ looks something like this:
 
 ~~~
 {}{}
-jemdoc
-    home                [index.html]
-    download            [download.html]
-    revision history    [revision.html]
-    contact             [contact.html]
-
-user's guide
-    cheat sheet         [cheatsheet.html]
-    using               [using.html]
-
-goodies
-    add a menu          [menu.html]
-    other stuff         [stuff.html]
+menu
+    Home               [index.html]
+    Biography        [Biography.html]
+    Publications     [Publications.html]
+    Projects            [Projects.html]
+    Teaching          [Teaching.html]
 ~~~
 
 To use the menu, start the first line of /each/ source file with a special
